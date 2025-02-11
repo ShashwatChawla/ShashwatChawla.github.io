@@ -1,33 +1,34 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Awarded Corporate Startup Lab Fellowship ✨
+date: 2024-08-16 0:11:00-0400
 inline: false
 related_posts: false
 ---
+Thrilled to share that I’ve been selected for the highly competitive [Corporate Startup Lab](https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/csl/index.html) (CSL) Fellowship, awarded to just 8-10 graduate students each semester by the Swartz Center for Entrepreneurship at Carnegie Mellon University. Through this fellowship, I’ll be collaborating with corporate clients on go-to-market strategies, new product development, and startup investments.
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
-
----
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+> I will be working under the leadership of [Jim Jen](https://www.linkedin.com/in/jimcjen/) (Director of CSL, Swartz ) and [Alessandro Oltramari](https://engineering.cmu.edu/directory/bios/oltramari-alessandro.html) (President, Carnegie Bosch Institute)
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+`Update: Dec 06, 2024`
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+I had an incredible experience collaborating with [Dr. Jonathan Francis](https://scholar.google.com/citations?user=7CLS0LwAAAAJ&hl=en), Senior Research Scientist at the Bosch Center for AI, alongside another CSL Fellow. Together, we mapped the robotics landscape across the U.S., with a particular focus on engaging with founders from Pittsburgh’s robotics startup scene. These companies spanned diverse sectors—from Defense and Construction to AgTech—and we had the opportunity to speak with entrepreneurs at every stage, from bootstrapped ARR startups to those who’ve raised billions in funding, to those who've got multi-million dollar exits.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Through these conversations, we gained valuable insights into the challenges these startups face and the types of partnerships they’re seeking within the broader ecosystem. Our work culminated in presenting a comprehensive thesis to Bosch, outlining strategic recommendations for new product development and actionable steps to strengthen partnerships and collaborations with these startups.
+
+![img](image/announcement_2/csl.png)
+
+---
+
+`Update: Feb 07, 2025`
+
+I will be pausing my research under [Dr. Jonathan Franscis](https://scholar.google.com/citations?user=7CLS0LwAAAAJ&hl=en) (Sr. Research Scientist, Bosch Research) and [Prof. Yonatan Bisk](https://talkingtorobots.com/yonatanbisk.html) (Assistant Professor, CMU) *for now. **I wish I had more time!!!***
+
+During my winter break and this January, I explored methods on building object property representation by fusing multisensory data—audio, vision, touch, and proprioception—with a specific focus on leveraging contact-rich audio to enhance multimodal embeddings for contact-rich bi-manipulation tasks.
+
+Some of the relevant works in the same directions:
+
+1. [*Hearing Touch: Audio-Visual Pretraining for Contact-Rich Manipulation*](https://arxiv.org/pdf/2405.08576)
+2. [*ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data*](https://arxiv.org/pdf/2406.19464)
+3. [*MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Learning via Interactive Perception*](https://arxiv.org/pdf/2309.08508)
